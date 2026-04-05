@@ -1,0 +1,12 @@
+aiortc>=1.9.0
+pycryptodome
+requests
+wasmtime
+flask-socketio
+lz4
+numpy
+packaging
+sounddevice
+pyaudio
+pydub
+opencv-python
